@@ -2,6 +2,12 @@
 
 ## Sobre mim:
 Olá sou uma estudante do ensino médio atualmente cursando desenvolvimento de sistemas
+a linguagem que tenho mais conhecimento é o style.css no vs code, alguns dos meus trabalhos dentro da grade curricular podem ser vistas em meus repositórios.
+
+cursos que já fiz e tenho certificado;
+Assistente administrativo no senac
+Informática básica
+Inglês
 
 <!--
 **annapoli-beep/annapoli-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
