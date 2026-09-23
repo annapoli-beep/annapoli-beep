@@ -1,6 +1,7 @@
 ## Anna Biatrice
 
-ola testando
+## Sobre mim:
+Olá sou uma estudante do ensino médio atualmente cursando desenvolvimento de sistemas
 
 <!--
 **annapoli-beep/annapoli-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
